@@ -1,0 +1,18 @@
+body {
+    background-color: #dcc5f3;
+}
+
+label {
+    color: rgb(59, 127, 182);
+    font-size: 24px;
+}
+
+.btn {
+    background-color: rgb(87, 159, 218);
+    color: aliceblue;
+    padding: 10px;
+}
+
+.table{
+    color: rgb(59, 127, 182);
+}
